@@ -24,14 +24,14 @@ Chung-I Lin's Résumé
 3.程式語言
 
 依使用程度排序
-Matlab
-Java
-Python
-C++
-php
-C
-Javascript
-C#
+1.Matlab
+2.Java
+3.Python
+4.C++
+5.php
+6.C
+7.Javascript
+
 
 4.其他工具
 
